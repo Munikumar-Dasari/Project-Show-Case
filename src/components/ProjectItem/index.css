@@ -1,0 +1,21 @@
+.project-item {
+  background-color: #e6e9ec;
+  border-radius: 10px;
+  min-width: 300px;
+  margin: 10px;
+  align-items: center;
+}
+
+.project-image {
+  width: 100%;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.project-name {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  color: #475569;
+  margin-left: 20px;
+}
